@@ -19,6 +19,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+a:active {
+    font-weight: bold;
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -29,7 +32,7 @@ p {
     color: #333;
     float: right;
     margin: 50px;
-    width: 70%;
+    width: 80%;
 }
 footer {
     border-top: 1px solid #d5d5d5;
