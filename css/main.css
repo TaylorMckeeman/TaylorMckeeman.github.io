@@ -29,6 +29,7 @@ p {
     line-height: 1.4em;
     color: #333;
     float: right;
+    margin: 50px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
